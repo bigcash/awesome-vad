@@ -2,7 +2,7 @@
 
  A curated list of awesome voice activity detection 
 
-# Code List
+# Repo List
 
 - [wiseman/*py-webrtcvad*](https://github.com/wiseman/py-webrtcvad) :  Python interface to the WebRTC Voice Activity Detector 
 - [mwv/vad](https://github.com/mwv/vad) :  This is a straight-forward re-implementation of Bowon Lee’s Voice Activity Detector.  
