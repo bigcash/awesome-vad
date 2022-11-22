@@ -22,3 +22,5 @@
 - [filippogiruzzi/*voice_activity_detection*](https://github.com/filippogiruzzi/voice_activity_detection) :  *Voice* *Activity* *Detection* based on Deep Learning & TensorFlow 
 - [nicklashansen/*voice*-*activity*-*detection*](https://github.com/nicklashansen/voice-activity-detection) :  *Voice* *Activity* *Detection* (VAD) using deep learning. 
 - [marianne-m/*brouhaha-vad*](https://github.com/marianne-m/brouhaha-vad) : Brouhaha: multi-task training for voice activity detection, speech-to-noise ratio, and C50 room acoustics estimation (2023)
+-  [Picovoice/*cobra*](https://github.com/Picovoice/cobra) :  On-device voice activity detection (VAD) powered by deep learning. 
+
