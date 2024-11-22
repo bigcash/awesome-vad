@@ -22,5 +22,8 @@
 - [filippogiruzzi/*voice_activity_detection*](https://github.com/filippogiruzzi/voice_activity_detection) :  *Voice* *Activity* *Detection* based on Deep Learning & TensorFlow 
 - [nicklashansen/*voice*-*activity*-*detection*](https://github.com/nicklashansen/voice-activity-detection) :  *Voice* *Activity* *Detection* (VAD) using deep learning. 
 - [marianne-m/*brouhaha-vad*](https://github.com/marianne-m/brouhaha-vad) : Brouhaha: multi-task training for voice activity detection, speech-to-noise ratio, and C50 room acoustics estimation (2023)
--  [Picovoice/*cobra*](https://github.com/Picovoice/cobra) :  On-device voice activity detection (VAD) powered by deep learning. 
+- [Picovoice/*cobra*](https://github.com/Picovoice/cobra) :  On-device voice activity detection (VAD) powered by deep learning.
+- [iic/speech_fsmn_vad_zh-cn-16k-common-pytorch](https://modelscope.cn/models/iic/speech_fsmn_vad_zh-cn-16k-common-pytorch): Deep-FSMN for large vocabulary continuous speech recognition. FSMN-Monophone VAD是达摩院语音团队提出的高效语音端点检测模型，用于检测输入音频中有效语音的起止时间点信息，并将检测出来的有效音频片段输入识别引擎进行识别，减少无效语音带来的识别错误。
+- [Revai/reverb-diarization-pipeline-v2](https://github.com/revdotcom/reverb/tree/main/diarization): This repository contains 2 new speaker diarization models built upon the PyAnnote framework. These models are trained and intended for the usage with ASR system (speaker attributed ASR).
+- [pyannote/speaker-diarization-3.1](https://github.com/pyannote/pyannote-audio): pyannote.audio is an open-source toolkit written in Python for speaker diarization. Based on PyTorch machine learning framework, it comes with state-of-the-art pretrained models and pipelines, that can be further finetuned to your own data for even better performance.
 
